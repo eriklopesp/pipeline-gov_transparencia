@@ -1,10 +1,9 @@
 import requests
 import os
 from dotenv import load_dotenv
-from fastapi import FastAPI
 import json
+import sys
 
-app = FastAPI()
 load_dotenv()
 
 token = os.getenv("token_api")
@@ -15,13 +14,6 @@ headers = {
     "chave-api-dados": token
 }
 
-# @app.get("/")
-# def home():
-#     return {"message": "API Local - Acesse /docs"}
-
-# @app.get("/gastos")
-# def gastos_api():
-    
 pagina = 1
 todos_dados = []
 
@@ -44,9 +36,9 @@ while True:
     todos_dados.extend(dados)
     pagina += 1
 
+    dados_json = json.dumps(dados)
+    tamanho_mb = sys.getsizeof(dados_json) / (1024*1024)
+
+print(f"Tamanho aproximado da página {todos_dados}: {tamanho_mb:.2f} MB")
 print(f"Total de registros obtidos: {len(todos_dados)}")
 print(json.dumps(todos_dados, indent=4, ensure_ascii=False))
-
-# if __name__ == "__main__":
-#     import uvicorn
-#     uvicorn.run("__main__:app", host="127.0.0.1", port=8000, reload=True)

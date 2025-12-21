@@ -13,14 +13,15 @@ spark = (
     .getOrCreate()
 )
 
+secret_data_api = dbutils.secrets.get(scope = "secret_scope", key = "key_api")
+
 api_url = "https://api.portaldatransparencia.gov.br/api-de-dados/cartoes"
-key_api = "e941af3608f165f7b41587c237ec0924"
 
 today = datetime.today().date()
 
 headers = {
     "accept": "*/*",
-    "chave-api-dados": key_api,
+    "chave-api-dados": secret_data_api,
 }
 
 todos_dados = []

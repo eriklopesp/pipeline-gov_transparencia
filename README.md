@@ -14,7 +14,7 @@ O objetivo deste projeto foi construir um **pipeline de dados robusto e reproces
 - Garantir **idempotência** e **consistência**
 - Processar dados em camadas (Bronze, Silver, Gold)
 - Suportar cargas **incrementais**
-- Disponibilizar dados prontos para análise e visualização
+- Disponibilizar dados prontos para análise e visualização de maneira automática e escalável
 
 Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Delta Lake** como camada de persistência.
 
@@ -22,9 +22,7 @@ Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Del
 
 ## 🏗️ Arquitetura da Solução
 
-
 <!-- -- imagem do roadmap técnico -- -->
-
 <p align="center">
   <img src="images/roadmap.png" width="900"/>
 </p>
@@ -76,7 +74,7 @@ O pipeline foi estruturado seguindo o padrão **Medallion Architecture**:
 - Garantia de estrutura base para o incremental
 - Validação de volume e consistência
 
-> O full load foi necessário para estabelecer o baseline histórico dos dados.
+> O full load foi necessário para estabelecer o baseline histórico dos dados
 
 ---
 
@@ -132,11 +130,19 @@ Essa abordagem garante:
 
 ## 📊 Camada Analítica & Dashboards
 
-<!-- INSERIR IMAGEM DO DASHBOARD AQUI -->
-![Dashboard Analítico](images/dashboard_geral.png)
+# Databricks
+<p align="center">
+  <img src="images/dataviz_databricks.png" width="900"/>
+</p>
+
+# Power BI
+<p align="center">
+  <img src="images/dataviz_powerbi.png" width="900"/>
+</p>
 
 Os dados da camada Gold são consumidos via:
 - Databricks SQL
+- Power BI
 - Dashboards analíticos construídos diretamente sobre tabelas Delta
 
 As queries utilizadas para os dashboards são versionadas e documentadas.
@@ -150,22 +156,5 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 - Delta Lake
 - SQL
 - Python
-- Cloud Storage
+- S3 (AWS)
 - Git & GitHub
-
----
-
-## 📂 Estrutura do Repositório
-
-```text
-.
-├── notebooks/
-│   ├── bronze_ingestao
-│   ├── silver_transformacao
-│   └── gold_analytics
-├── dashboards/
-│   └── queries_sql
-├── images/
-│   ├── arquitetura_pipeline.png
-│   └── dashboard_geral.png
-└── README.md

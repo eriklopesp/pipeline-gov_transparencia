@@ -1,0 +1,4013 @@
+[
+    {
+        "id": 477858981,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "22/05/2025",
+        "valorTransacao": "170,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 518849,
+            "cpfFormatado": "",
+            "cnpjFormatado": "07.939.516/0001-45",
+            "numeroInscricaoSocial": "",
+            "nome": "GRUCHINSKI PURIFICADORES DE AGUA LTDA",
+            "razaoSocialReceita": "GRUCHINSKI PURIFICADORES DE AGUA LTDA",
+            "nomeFantasiaReceita": "PURIFIC SHOP MARAVILHA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477859045,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "22/05/2025",
+        "valorTransacao": "218,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519364,
+            "cpfFormatado": "",
+            "cnpjFormatado": "11.840.301/0001-40",
+            "numeroInscricaoSocial": "",
+            "nome": "DACASA ACESSORIOS E INSTALACOES LTDA",
+            "razaoSocialReceita": "DACASA ACESSORIOS E INSTALACOES LTDA",
+            "nomeFantasiaReceita": "DACASA ACESSORIOS E INSTALACOES",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477859109,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "26/05/2025",
+        "valorTransacao": "170,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2419562,
+            "cpfFormatado": "",
+            "cnpjFormatado": "04.218.825/0001-38",
+            "numeroInscricaoSocial": "",
+            "nome": "NACIONAL MATERIAIS ELETRICOS LTDA",
+            "razaoSocialReceita": "NACIONAL MATERIAIS ELETRICOS LTDA",
+            "nomeFantasiaReceita": "NACIONAL MATERIAIS ELETRICOS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477859173,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "19/05/2025",
+        "valorTransacao": "450,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 323417381,
+            "cpfFormatado": "",
+            "cnpjFormatado": "36.503.686/0001-80",
+            "numeroInscricaoSocial": "",
+            "nome": "ANTONELLO & MARINHO DE MELO LTDA",
+            "razaoSocialReceita": "ANTONELLO & MARINHO DE MELO LTDA",
+            "nomeFantasiaReceita": "EXTINTORES ALIANCA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477859237,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "30/04/2025",
+        "valorTransacao": "250,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607842186,
+            "cpfFormatado": "***.810.399-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "12503584472",
+            "nome": "LUIZ LUCIANO DOS SANTOS",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859301,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "06/05/2025",
+        "valorTransacao": "465,50",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 367918399,
+            "cpfFormatado": "",
+            "cnpjFormatado": "29.134.576/0001-23",
+            "numeroInscricaoSocial": "",
+            "nome": "GRM COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+            "razaoSocialReceita": "GRM COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859365,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "15/05/2025",
+        "valorTransacao": "1.300,92",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8019846,
+            "cpfFormatado": "",
+            "cnpjFormatado": "80.223.324/0001-28",
+            "numeroInscricaoSocial": "",
+            "nome": "ELETRO COMERCIAL REYMASTER LTDA",
+            "razaoSocialReceita": "ELETRO COMERCIAL REYMASTER LTDA",
+            "nomeFantasiaReceita": "A ELETRO REYMASTER",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859429,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "21/05/2025",
+        "valorTransacao": "339,90",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8820007,
+            "cpfFormatado": "",
+            "cnpjFormatado": "06.158.664/0001-60",
+            "numeroInscricaoSocial": "",
+            "nome": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "razaoSocialReceita": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "nomeFantasiaReceita": "POVAO EMBALAGENS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859493,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "26/05/2025",
+        "valorTransacao": "40,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 61001530,
+            "cpfFormatado": "",
+            "cnpjFormatado": "01.450.555/0001-06",
+            "numeroInscricaoSocial": "",
+            "nome": "JZ IMPRESSAO E PLOTAGEM LTDA",
+            "razaoSocialReceita": "JZ IMPRESSAO E PLOTAGEM LTDA",
+            "nomeFantasiaReceita": "JC COPIAS E ENCADERNACOES",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859557,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "30/04/2025",
+        "valorTransacao": "1.316,25",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": -1,
+            "cpfFormatado": "",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "SEM INFORMACAO",
+            "razaoSocialReceita": "SEM INFORMACAO",
+            "nomeFantasiaReceita": "SEM INFORMACAO",
+            "tipo": "Sem Informação"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.159.529-**",
+            "nis": "",
+            "nome": "NILSA MIGUEL DOS SANTOS"
+        }
+    },
+    {
+        "id": 477859621,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "07/05/2025",
+        "valorTransacao": "140,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4419282,
+            "cpfFormatado": "",
+            "cnpjFormatado": "75.671.313/0001-70",
+            "numeroInscricaoSocial": "",
+            "nome": "COMERCIO DE EXTINTORES BELTRAO LTDA",
+            "razaoSocialReceita": "COMERCIO DE EXTINTORES BELTRAO LTDA",
+            "nomeFantasiaReceita": "EXTIMBEL",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.812.410-**",
+            "nis": "",
+            "nome": "DIEGO EDUARDO MACHADO"
+        }
+    },
+    {
+        "id": 477863269,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "30/05/2025",
+        "valorTransacao": "90,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 23938965,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.450.906/0001-04",
+            "numeroInscricaoSocial": "",
+            "nome": "EDNALDO MANOEL MANIEZO",
+            "razaoSocialReceita": "EDNALDO MANOEL MANIEZO",
+            "nomeFantasiaReceita": "EDIGAS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863333,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "12/06/2025",
+        "valorTransacao": "100,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607852763,
+            "cpfFormatado": "",
+            "cnpjFormatado": "23.773.333/0001-59",
+            "numeroInscricaoSocial": "",
+            "nome": "DANIEL BRASIL VIDROS LTDA.",
+            "razaoSocialReceita": "DANIEL BRASIL VIDROS LTDA.",
+            "nomeFantasiaReceita": "VIDRACARIA BRASIL VIDROS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863397,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "12/06/2025",
+        "valorTransacao": "390,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607852763,
+            "cpfFormatado": "",
+            "cnpjFormatado": "23.773.333/0001-59",
+            "numeroInscricaoSocial": "",
+            "nome": "DANIEL BRASIL VIDROS LTDA.",
+            "razaoSocialReceita": "DANIEL BRASIL VIDROS LTDA.",
+            "nomeFantasiaReceita": "VIDRACARIA BRASIL VIDROS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863461,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "13/06/2025",
+        "valorTransacao": "415,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 372117309,
+            "cpfFormatado": "",
+            "cnpjFormatado": "39.793.855/0001-52",
+            "numeroInscricaoSocial": "",
+            "nome": "CLAUDIO JOSE DE OLIVEIRA 02111084999",
+            "razaoSocialReceita": "CLAUDIO JOSE DE OLIVEIRA 02111084999",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863525,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "17/06/2025",
+        "valorTransacao": "330,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": -1,
+            "cpfFormatado": "",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "SEM INFORMACAO",
+            "razaoSocialReceita": "SEM INFORMACAO",
+            "nomeFantasiaReceita": "SEM INFORMACAO",
+            "tipo": "Sem Informação"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863589,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "18/06/2025",
+        "valorTransacao": "660,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 17444065,
+            "cpfFormatado": "",
+            "cnpjFormatado": "76.326.669/0001-30",
+            "numeroInscricaoSocial": "",
+            "nome": "I. ZENI & CIA LTDA",
+            "razaoSocialReceita": "I. ZENI & CIA LTDA",
+            "nomeFantasiaReceita": "REFRIGERACAO MAMBORE",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863653,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "20/06/2025",
+        "valorTransacao": "77,40",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8718825,
+            "cpfFormatado": "",
+            "cnpjFormatado": "80.265.770/0001-03",
+            "numeroInscricaoSocial": "",
+            "nome": "PAPELARIA CAMPO CENTER LTDA",
+            "razaoSocialReceita": "PAPELARIA CAMPO CENTER LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863717,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "20/06/2025",
+        "valorTransacao": "60,99",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607877168,
+            "cpfFormatado": "",
+            "cnpjFormatado": "09.386.451/0001-83",
+            "numeroInscricaoSocial": "",
+            "nome": "ARMAZEM RIVA LTDA",
+            "razaoSocialReceita": "ARMAZEM RIVA LTDA",
+            "nomeFantasiaReceita": "ARMAZEM RIVA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863781,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "03/06/2025",
+        "valorTransacao": "350,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607857802,
+            "cpfFormatado": "***.958.869-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "16270496005",
+            "nome": "FELIX DA SILVA FERNANDES",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477863845,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "16/06/2025",
+        "valorTransacao": "90,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 363717279,
+            "cpfFormatado": "",
+            "cnpjFormatado": "40.331.897/0001-50",
+            "numeroInscricaoSocial": "",
+            "nome": "TOTAL UTILIDADES TOTAL LTDA",
+            "razaoSocialReceita": "TOTAL UTILIDADES TOTAL LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477863909,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "28/05/2025",
+        "valorTransacao": "80,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 17244019,
+            "cpfFormatado": "",
+            "cnpjFormatado": "20.082.403/0001-34",
+            "numeroInscricaoSocial": "",
+            "nome": "MATIAS EXTINTORES LTDA",
+            "razaoSocialReceita": "MATIAS EXTINTORES LTDA",
+            "nomeFantasiaReceita": "JDA MATIAS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.981.309-**",
+            "nis": "",
+            "nome": "WALLACE TADEU NEIA"
+        }
+    },
+    {
+        "id": 477863973,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "09/06/2025",
+        "valorTransacao": "50,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 7119824,
+            "cpfFormatado": "",
+            "cnpjFormatado": "07.964.537/0001-10",
+            "numeroInscricaoSocial": "",
+            "nome": "CONTINENTE CHAVES LTDA.",
+            "razaoSocialReceita": "CONTINENTE CHAVES LTDA.",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.473.009-**",
+            "nis": "",
+            "nome": "EVANDRO DE REZENDE CRACCO"
+        }
+    },
+    {
+        "id": 477864037,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "02/06/2025",
+        "valorTransacao": "393,44",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8820007,
+            "cpfFormatado": "",
+            "cnpjFormatado": "06.158.664/0001-60",
+            "numeroInscricaoSocial": "",
+            "nome": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "razaoSocialReceita": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "nomeFantasiaReceita": "POVAO EMBALAGENS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477864101,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "02/06/2025",
+        "valorTransacao": "1.104,40",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606497635,
+            "cpfFormatado": "",
+            "cnpjFormatado": "31.523.399/0001-19",
+            "numeroInscricaoSocial": "",
+            "nome": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "razaoSocialReceita": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "nomeFantasiaReceita": "JK TELECOM",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477864165,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "04/06/2025",
+        "valorTransacao": "1.030,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606497635,
+            "cpfFormatado": "",
+            "cnpjFormatado": "31.523.399/0001-19",
+            "numeroInscricaoSocial": "",
+            "nome": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "razaoSocialReceita": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "nomeFantasiaReceita": "JK TELECOM",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477864229,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "29/05/2025",
+        "valorTransacao": "500,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607853246,
+            "cpfFormatado": "",
+            "cnpjFormatado": "54.907.452/0001-80",
+            "numeroInscricaoSocial": "",
+            "nome": "B S ATACADO DA OBRA LTDA",
+            "razaoSocialReceita": "B S ATACADO DA OBRA LTDA",
+            "nomeFantasiaReceita": "BS ELETRO OBRA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.812.410-**",
+            "nis": "",
+            "nome": "DIEGO EDUARDO MACHADO"
+        }
+    },
+    {
+        "id": 477864293,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "29/05/2025",
+        "valorTransacao": "395,71",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607853246,
+            "cpfFormatado": "",
+            "cnpjFormatado": "54.907.452/0001-80",
+            "numeroInscricaoSocial": "",
+            "nome": "B S ATACADO DA OBRA LTDA",
+            "razaoSocialReceita": "B S ATACADO DA OBRA LTDA",
+            "nomeFantasiaReceita": "BS ELETRO OBRA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.812.410-**",
+            "nis": "",
+            "nome": "DIEGO EDUARDO MACHADO"
+        }
+    },
+    {
+        "id": 477869733,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "23/07/2025",
+        "valorTransacao": "1.963,31",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608335022,
+            "cpfFormatado": "***.250.139-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "MERCEDES FERNANDES FESTI",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477869797,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "23/07/2025",
+        "valorTransacao": "1.900,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608335022,
+            "cpfFormatado": "***.250.139-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "MERCEDES FERNANDES FESTI",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477869861,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "23/07/2025",
+        "valorTransacao": "936,69",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608335022,
+            "cpfFormatado": "***.250.139-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "MERCEDES FERNANDES FESTI",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477869925,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "25/07/2025",
+        "valorTransacao": "220,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4718866,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.649.204/0001-46",
+            "numeroInscricaoSocial": "",
+            "nome": "JAU MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+            "razaoSocialReceita": "JAU MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+            "nomeFantasiaReceita": "JAU ELETRICA & CASA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477874085,
+        "mesExtrato": "09/2025",
+        "dataTransacao": "26/08/2025",
+        "valorTransacao": "460,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 28745603,
+            "cpfFormatado": "",
+            "cnpjFormatado": "01.144.960/0001-98",
+            "numeroInscricaoSocial": "",
+            "nome": "A. C. CALDEIRA COMERCIO DE EXTINTORES LTDA",
+            "razaoSocialReceita": "A. C. CALDEIRA COMERCIO DE EXTINTORES LTDA",
+            "nomeFantasiaReceita": "COOPER FIRE EXTINTORES",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477877605,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "29/09/2025",
+        "valorTransacao": "1.359,64",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606303034,
+            "cpfFormatado": "",
+            "cnpjFormatado": "51.360.192/0001-88",
+            "numeroInscricaoSocial": "",
+            "nome": "HIDRATEC SOLUCOES HIDRAULICAS LTDA",
+            "razaoSocialReceita": "HIDRATEC SOLUCOES HIDRAULICAS LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477877669,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "26/09/2025",
+        "valorTransacao": "40,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608379133,
+            "cpfFormatado": "",
+            "cnpjFormatado": "61.682.455/0001-29",
+            "numeroInscricaoSocial": "",
+            "nome": "JF PROTECAO - EPI'S E PRODUTOS DE COMBATE A INCENDIO LTDA",
+            "razaoSocialReceita": "JF PROTECAO - EPI'S E PRODUTOS DE COMBATE A INCENDIO LTDA",
+            "nomeFantasiaReceita": "JF PROTECAO",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.501.109-**",
+            "nis": "",
+            "nome": "MILTON ALBANO JUNIOR"
+        }
+    },
+    {
+        "id": 477877733,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "29/08/2025",
+        "valorTransacao": "226,29",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519458,
+            "cpfFormatado": "",
+            "cnpjFormatado": "77.044.618/0033-65",
+            "numeroInscricaoSocial": "",
+            "nome": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "razaoSocialReceita": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "nomeFantasiaReceita": "BALAROTI",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877797,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "02/09/2025",
+        "valorTransacao": "420,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608411828,
+            "cpfFormatado": "",
+            "cnpjFormatado": "13.244.990/0001-55",
+            "numeroInscricaoSocial": "",
+            "nome": "SAMIR MOHAMED ELSANGEDY 05135212914",
+            "razaoSocialReceita": "SAMIR MOHAMED ELSANGEDY 05135212914",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877861,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "09/09/2025",
+        "valorTransacao": "196,67",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519458,
+            "cpfFormatado": "",
+            "cnpjFormatado": "77.044.618/0033-65",
+            "numeroInscricaoSocial": "",
+            "nome": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "razaoSocialReceita": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "nomeFantasiaReceita": "BALAROTI",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877925,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "09/09/2025",
+        "valorTransacao": "9,50",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4019837,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.133.011/0001-38",
+            "numeroInscricaoSocial": "",
+            "nome": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "razaoSocialReceita": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877989,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "11/09/2025",
+        "valorTransacao": "43,69",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519458,
+            "cpfFormatado": "",
+            "cnpjFormatado": "77.044.618/0033-65",
+            "numeroInscricaoSocial": "",
+            "nome": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "razaoSocialReceita": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "nomeFantasiaReceita": "BALAROTI",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477878053,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "16/09/2025",
+        "valorTransacao": "24,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4019837,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.133.011/0001-38",
+            "numeroInscricaoSocial": "",
+            "nome": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "razaoSocialReceita": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477878117,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "16/09/2025",
+        "valorTransacao": "97,60",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 7320064,
+            "cpfFormatado": "",
+            "cnpjFormatado": "43.283.811/0050-38",
+            "numeroInscricaoSocial": "",
+            "nome": "KALUNGA SA",
+            "razaoSocialReceita": "KALUNGA SA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477878181,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "12/09/2025",
+        "valorTransacao": "500,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608438242,
+            "cpfFormatado": "",
+            "cnpjFormatado": "20.191.753/0001-39",
+            "numeroInscricaoSocial": "",
+            "nome": "WILLIAN ROBERT SCHMIDT 05985637921",
+            "razaoSocialReceita": "WILLIAN ROBERT SCHMIDT 05985637921",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.268.009-**",
+            "nis": "",
+            "nome": "VANESSA BECKER MACIEL"
+        }
+    },
+    {
+        "id": 477878245,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "17/09/2025",
+        "valorTransacao": "50,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 17542276,
+            "cpfFormatado": "",
+            "cnpjFormatado": "01.781.936/0001-60",
+            "numeroInscricaoSocial": "",
+            "nome": "GOLINHAKI & CIA LTDA",
+            "razaoSocialReceita": "GOLINHAKI & CIA LTDA",
+            "nomeFantasiaReceita": "EXTINTORES SAO CRISTOVAO",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.268.009-**",
+            "nis": "",
+            "nome": "VANESSA BECKER MACIEL"
+        }
+    },
+    {
+        "id": 477878309,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "05/09/2025",
+        "valorTransacao": "600,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608409741,
+            "cpfFormatado": "",
+            "cnpjFormatado": "16.919.138/0001-29",
+            "numeroInscricaoSocial": "",
+            "nome": "SERGIO TOMAZ DO NASCIMENTO 05630168924",
+            "razaoSocialReceita": "SERGIO TOMAZ DO NASCIMENTO 05630168924",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477878373,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "09/09/2025",
+        "valorTransacao": "180,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606497635,
+            "cpfFormatado": "",
+            "cnpjFormatado": "31.523.399/0001-19",
+            "numeroInscricaoSocial": "",
+            "nome": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "razaoSocialReceita": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "nomeFantasiaReceita": "JK TELECOM",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477878437,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "26/09/2025",
+        "valorTransacao": "280,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608396986,
+            "cpfFormatado": "",
+            "cnpjFormatado": "23.990.857/0001-00",
+            "numeroInscricaoSocial": "",
+            "nome": "MARLENE DE OLIVEIRA 97436267787",
+            "razaoSocialReceita": "MARLENE DE OLIVEIRA 97436267787",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    }
+]
+INFO:     Started server process [
+    21308
+]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [
+    21308
+]
+INFO:     Stopping reloader process [
+    23168
+]
+PS C:\Users\Eriklopesp\Documents\pipeline-gov_transparencia> py .\config_api.py
+Lendo página 1... (status 200)
+Lendo página 2... (status 200)
+Lendo página 3... (status 200)
+Lendo página 4... (status 200)
+Lendo página 5... (status 200)
+Nenhum dado retornado, finalizando a leitura.
+Total de registros obtidos: 47
+[
+    {
+        "id": 477858981,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "22/05/2025",
+        "valorTransacao": "170,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 518849,
+            "cpfFormatado": "",
+            "cnpjFormatado": "07.939.516/0001-45",
+            "numeroInscricaoSocial": "",
+            "nome": "GRUCHINSKI PURIFICADORES DE AGUA LTDA",
+            "razaoSocialReceita": "GRUCHINSKI PURIFICADORES DE AGUA LTDA",
+            "nomeFantasiaReceita": "PURIFIC SHOP MARAVILHA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477859045,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "22/05/2025",
+        "valorTransacao": "218,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519364,
+            "cpfFormatado": "",
+            "cnpjFormatado": "11.840.301/0001-40",
+            "numeroInscricaoSocial": "",
+            "nome": "DACASA ACESSORIOS E INSTALACOES LTDA",
+            "razaoSocialReceita": "DACASA ACESSORIOS E INSTALACOES LTDA",
+            "nomeFantasiaReceita": "DACASA ACESSORIOS E INSTALACOES",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477859109,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "26/05/2025",
+        "valorTransacao": "170,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2419562,
+            "cpfFormatado": "",
+            "cnpjFormatado": "04.218.825/0001-38",
+            "numeroInscricaoSocial": "",
+            "nome": "NACIONAL MATERIAIS ELETRICOS LTDA",
+            "razaoSocialReceita": "NACIONAL MATERIAIS ELETRICOS LTDA",
+            "nomeFantasiaReceita": "NACIONAL MATERIAIS ELETRICOS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477859173,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "19/05/2025",
+        "valorTransacao": "450,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 323417381,
+            "cpfFormatado": "",
+            "cnpjFormatado": "36.503.686/0001-80",
+            "numeroInscricaoSocial": "",
+            "nome": "ANTONELLO & MARINHO DE MELO LTDA",
+            "razaoSocialReceita": "ANTONELLO & MARINHO DE MELO LTDA",
+            "nomeFantasiaReceita": "EXTINTORES ALIANCA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477859237,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "30/04/2025",
+        "valorTransacao": "250,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607842186,
+            "cpfFormatado": "***.810.399-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "12503584472",
+            "nome": "LUIZ LUCIANO DOS SANTOS",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859301,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "06/05/2025",
+        "valorTransacao": "465,50",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 367918399,
+            "cpfFormatado": "",
+            "cnpjFormatado": "29.134.576/0001-23",
+            "numeroInscricaoSocial": "",
+            "nome": "GRM COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+            "razaoSocialReceita": "GRM COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859365,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "15/05/2025",
+        "valorTransacao": "1.300,92",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8019846,
+            "cpfFormatado": "",
+            "cnpjFormatado": "80.223.324/0001-28",
+            "numeroInscricaoSocial": "",
+            "nome": "ELETRO COMERCIAL REYMASTER LTDA",
+            "razaoSocialReceita": "ELETRO COMERCIAL REYMASTER LTDA",
+            "nomeFantasiaReceita": "A ELETRO REYMASTER",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859429,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "21/05/2025",
+        "valorTransacao": "339,90",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8820007,
+            "cpfFormatado": "",
+            "cnpjFormatado": "06.158.664/0001-60",
+            "numeroInscricaoSocial": "",
+            "nome": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "razaoSocialReceita": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "nomeFantasiaReceita": "POVAO EMBALAGENS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859493,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "26/05/2025",
+        "valorTransacao": "40,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 61001530,
+            "cpfFormatado": "",
+            "cnpjFormatado": "01.450.555/0001-06",
+            "numeroInscricaoSocial": "",
+            "nome": "JZ IMPRESSAO E PLOTAGEM LTDA",
+            "razaoSocialReceita": "JZ IMPRESSAO E PLOTAGEM LTDA",
+            "nomeFantasiaReceita": "JC COPIAS E ENCADERNACOES",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477859557,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "30/04/2025",
+        "valorTransacao": "1.316,25",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": -1,
+            "cpfFormatado": "",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "SEM INFORMACAO",
+            "razaoSocialReceita": "SEM INFORMACAO",
+            "nomeFantasiaReceita": "SEM INFORMACAO",
+            "tipo": "Sem Informação"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.159.529-**",
+            "nis": "",
+            "nome": "NILSA MIGUEL DOS SANTOS"
+        }
+    },
+    {
+        "id": 477859621,
+        "mesExtrato": "06/2025",
+        "dataTransacao": "07/05/2025",
+        "valorTransacao": "140,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4419282,
+            "cpfFormatado": "",
+            "cnpjFormatado": "75.671.313/0001-70",
+            "numeroInscricaoSocial": "",
+            "nome": "COMERCIO DE EXTINTORES BELTRAO LTDA",
+            "razaoSocialReceita": "COMERCIO DE EXTINTORES BELTRAO LTDA",
+            "nomeFantasiaReceita": "EXTIMBEL",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.812.410-**",
+            "nis": "",
+            "nome": "DIEGO EDUARDO MACHADO"
+        }
+    },
+    {
+        "id": 477863269,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "30/05/2025",
+        "valorTransacao": "90,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 23938965,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.450.906/0001-04",
+            "numeroInscricaoSocial": "",
+            "nome": "EDNALDO MANOEL MANIEZO",
+            "razaoSocialReceita": "EDNALDO MANOEL MANIEZO",
+            "nomeFantasiaReceita": "EDIGAS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863333,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "12/06/2025",
+        "valorTransacao": "100,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607852763,
+            "cpfFormatado": "",
+            "cnpjFormatado": "23.773.333/0001-59",
+            "numeroInscricaoSocial": "",
+            "nome": "DANIEL BRASIL VIDROS LTDA.",
+            "razaoSocialReceita": "DANIEL BRASIL VIDROS LTDA.",
+            "nomeFantasiaReceita": "VIDRACARIA BRASIL VIDROS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863397,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "12/06/2025",
+        "valorTransacao": "390,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607852763,
+            "cpfFormatado": "",
+            "cnpjFormatado": "23.773.333/0001-59",
+            "numeroInscricaoSocial": "",
+            "nome": "DANIEL BRASIL VIDROS LTDA.",
+            "razaoSocialReceita": "DANIEL BRASIL VIDROS LTDA.",
+            "nomeFantasiaReceita": "VIDRACARIA BRASIL VIDROS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863461,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "13/06/2025",
+        "valorTransacao": "415,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 372117309,
+            "cpfFormatado": "",
+            "cnpjFormatado": "39.793.855/0001-52",
+            "numeroInscricaoSocial": "",
+            "nome": "CLAUDIO JOSE DE OLIVEIRA 02111084999",
+            "razaoSocialReceita": "CLAUDIO JOSE DE OLIVEIRA 02111084999",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863525,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "17/06/2025",
+        "valorTransacao": "330,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": -1,
+            "cpfFormatado": "",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "SEM INFORMACAO",
+            "razaoSocialReceita": "SEM INFORMACAO",
+            "nomeFantasiaReceita": "SEM INFORMACAO",
+            "tipo": "Sem Informação"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863589,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "18/06/2025",
+        "valorTransacao": "660,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 17444065,
+            "cpfFormatado": "",
+            "cnpjFormatado": "76.326.669/0001-30",
+            "numeroInscricaoSocial": "",
+            "nome": "I. ZENI & CIA LTDA",
+            "razaoSocialReceita": "I. ZENI & CIA LTDA",
+            "nomeFantasiaReceita": "REFRIGERACAO MAMBORE",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863653,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "20/06/2025",
+        "valorTransacao": "77,40",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8718825,
+            "cpfFormatado": "",
+            "cnpjFormatado": "80.265.770/0001-03",
+            "numeroInscricaoSocial": "",
+            "nome": "PAPELARIA CAMPO CENTER LTDA",
+            "razaoSocialReceita": "PAPELARIA CAMPO CENTER LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863717,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "20/06/2025",
+        "valorTransacao": "60,99",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607877168,
+            "cpfFormatado": "",
+            "cnpjFormatado": "09.386.451/0001-83",
+            "numeroInscricaoSocial": "",
+            "nome": "ARMAZEM RIVA LTDA",
+            "razaoSocialReceita": "ARMAZEM RIVA LTDA",
+            "nomeFantasiaReceita": "ARMAZEM RIVA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.069.969-**",
+            "nis": "",
+            "nome": "MARISTELA GRASSO"
+        }
+    },
+    {
+        "id": 477863781,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "03/06/2025",
+        "valorTransacao": "350,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607857802,
+            "cpfFormatado": "***.958.869-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "16270496005",
+            "nome": "FELIX DA SILVA FERNANDES",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477863845,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "16/06/2025",
+        "valorTransacao": "90,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 363717279,
+            "cpfFormatado": "",
+            "cnpjFormatado": "40.331.897/0001-50",
+            "numeroInscricaoSocial": "",
+            "nome": "TOTAL UTILIDADES TOTAL LTDA",
+            "razaoSocialReceita": "TOTAL UTILIDADES TOTAL LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477863909,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "28/05/2025",
+        "valorTransacao": "80,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 17244019,
+            "cpfFormatado": "",
+            "cnpjFormatado": "20.082.403/0001-34",
+            "numeroInscricaoSocial": "",
+            "nome": "MATIAS EXTINTORES LTDA",
+            "razaoSocialReceita": "MATIAS EXTINTORES LTDA",
+            "nomeFantasiaReceita": "JDA MATIAS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.981.309-**",
+            "nis": "",
+            "nome": "WALLACE TADEU NEIA"
+        }
+    },
+    {
+        "id": 477863973,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "09/06/2025",
+        "valorTransacao": "50,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 7119824,
+            "cpfFormatado": "",
+            "cnpjFormatado": "07.964.537/0001-10",
+            "numeroInscricaoSocial": "",
+            "nome": "CONTINENTE CHAVES LTDA.",
+            "razaoSocialReceita": "CONTINENTE CHAVES LTDA.",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.473.009-**",
+            "nis": "",
+            "nome": "EVANDRO DE REZENDE CRACCO"
+        }
+    },
+    {
+        "id": 477864037,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "02/06/2025",
+        "valorTransacao": "393,44",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 8820007,
+            "cpfFormatado": "",
+            "cnpjFormatado": "06.158.664/0001-60",
+            "numeroInscricaoSocial": "",
+            "nome": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "razaoSocialReceita": "POVAO DISTRIBUIDORA E ATACADO DE ALIMENTOS LTDA",
+            "nomeFantasiaReceita": "POVAO EMBALAGENS",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477864101,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "02/06/2025",
+        "valorTransacao": "1.104,40",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606497635,
+            "cpfFormatado": "",
+            "cnpjFormatado": "31.523.399/0001-19",
+            "numeroInscricaoSocial": "",
+            "nome": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "razaoSocialReceita": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "nomeFantasiaReceita": "JK TELECOM",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477864165,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "04/06/2025",
+        "valorTransacao": "1.030,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606497635,
+            "cpfFormatado": "",
+            "cnpjFormatado": "31.523.399/0001-19",
+            "numeroInscricaoSocial": "",
+            "nome": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "razaoSocialReceita": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "nomeFantasiaReceita": "JK TELECOM",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477864229,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "29/05/2025",
+        "valorTransacao": "500,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607853246,
+            "cpfFormatado": "",
+            "cnpjFormatado": "54.907.452/0001-80",
+            "numeroInscricaoSocial": "",
+            "nome": "B S ATACADO DA OBRA LTDA",
+            "razaoSocialReceita": "B S ATACADO DA OBRA LTDA",
+            "nomeFantasiaReceita": "BS ELETRO OBRA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.812.410-**",
+            "nis": "",
+            "nome": "DIEGO EDUARDO MACHADO"
+        }
+    },
+    {
+        "id": 477864293,
+        "mesExtrato": "07/2025",
+        "dataTransacao": "29/05/2025",
+        "valorTransacao": "395,71",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 607853246,
+            "cpfFormatado": "",
+            "cnpjFormatado": "54.907.452/0001-80",
+            "numeroInscricaoSocial": "",
+            "nome": "B S ATACADO DA OBRA LTDA",
+            "razaoSocialReceita": "B S ATACADO DA OBRA LTDA",
+            "nomeFantasiaReceita": "BS ELETRO OBRA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.812.410-**",
+            "nis": "",
+            "nome": "DIEGO EDUARDO MACHADO"
+        }
+    },
+    {
+        "id": 477869733,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "23/07/2025",
+        "valorTransacao": "1.963,31",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608335022,
+            "cpfFormatado": "***.250.139-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "MERCEDES FERNANDES FESTI",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477869797,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "23/07/2025",
+        "valorTransacao": "1.900,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608335022,
+            "cpfFormatado": "***.250.139-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "MERCEDES FERNANDES FESTI",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477869861,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "23/07/2025",
+        "valorTransacao": "936,69",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608335022,
+            "cpfFormatado": "***.250.139-**",
+            "cnpjFormatado": "",
+            "numeroInscricaoSocial": "",
+            "nome": "MERCEDES FERNANDES FESTI",
+            "razaoSocialReceita": "",
+            "nomeFantasiaReceita": "",
+            "tipo": "Pessoa Física"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477869925,
+        "mesExtrato": "08/2025",
+        "dataTransacao": "25/07/2025",
+        "valorTransacao": "220,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4718866,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.649.204/0001-46",
+            "numeroInscricaoSocial": "",
+            "nome": "JAU MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+            "razaoSocialReceita": "JAU MATERIAIS ELETRICOS E FERRAMENTAS LTDA",
+            "nomeFantasiaReceita": "JAU ELETRICA & CASA",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.554.459-**",
+            "nis": "",
+            "nome": "VINICIUS BATISTA FRANKLIN"
+        }
+    },
+    {
+        "id": 477874085,
+        "mesExtrato": "09/2025",
+        "dataTransacao": "26/08/2025",
+        "valorTransacao": "460,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 28745603,
+            "cpfFormatado": "",
+            "cnpjFormatado": "01.144.960/0001-98",
+            "numeroInscricaoSocial": "",
+            "nome": "A. C. CALDEIRA COMERCIO DE EXTINTORES LTDA",
+            "razaoSocialReceita": "A. C. CALDEIRA COMERCIO DE EXTINTORES LTDA",
+            "nomeFantasiaReceita": "COOPER FIRE EXTINTORES",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477877605,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "29/09/2025",
+        "valorTransacao": "1.359,64",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606303034,
+            "cpfFormatado": "",
+            "cnpjFormatado": "51.360.192/0001-88",
+            "numeroInscricaoSocial": "",
+            "nome": "HIDRATEC SOLUCOES HIDRAULICAS LTDA",
+            "razaoSocialReceita": "HIDRATEC SOLUCOES HIDRAULICAS LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.425.699-**",
+            "nis": "",
+            "nome": "ELIZANGELA APARECIDA DOS SANTOS FARIA"
+        }
+    },
+    {
+        "id": 477877669,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "26/09/2025",
+        "valorTransacao": "40,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608379133,
+            "cpfFormatado": "",
+            "cnpjFormatado": "61.682.455/0001-29",
+            "numeroInscricaoSocial": "",
+            "nome": "JF PROTECAO - EPI'S E PRODUTOS DE COMBATE A INCENDIO LTDA",
+            "razaoSocialReceita": "JF PROTECAO - EPI'S E PRODUTOS DE COMBATE A INCENDIO LTDA",
+            "nomeFantasiaReceita": "JF PROTECAO",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.501.109-**",
+            "nis": "",
+            "nome": "MILTON ALBANO JUNIOR"
+        }
+    },
+    {
+        "id": 477877733,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "29/08/2025",
+        "valorTransacao": "226,29",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519458,
+            "cpfFormatado": "",
+            "cnpjFormatado": "77.044.618/0033-65",
+            "numeroInscricaoSocial": "",
+            "nome": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "razaoSocialReceita": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "nomeFantasiaReceita": "BALAROTI",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877797,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "02/09/2025",
+        "valorTransacao": "420,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608411828,
+            "cpfFormatado": "",
+            "cnpjFormatado": "13.244.990/0001-55",
+            "numeroInscricaoSocial": "",
+            "nome": "SAMIR MOHAMED ELSANGEDY 05135212914",
+            "razaoSocialReceita": "SAMIR MOHAMED ELSANGEDY 05135212914",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877861,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "09/09/2025",
+        "valorTransacao": "196,67",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519458,
+            "cpfFormatado": "",
+            "cnpjFormatado": "77.044.618/0033-65",
+            "numeroInscricaoSocial": "",
+            "nome": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "razaoSocialReceita": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "nomeFantasiaReceita": "BALAROTI",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877925,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "09/09/2025",
+        "valorTransacao": "9,50",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4019837,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.133.011/0001-38",
+            "numeroInscricaoSocial": "",
+            "nome": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "razaoSocialReceita": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477877989,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "11/09/2025",
+        "valorTransacao": "43,69",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 2519458,
+            "cpfFormatado": "",
+            "cnpjFormatado": "77.044.618/0033-65",
+            "numeroInscricaoSocial": "",
+            "nome": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "razaoSocialReceita": "BALAROTI - COMERCIO DE MATERIAIS DE CONSTRUCAO S.A.",
+            "nomeFantasiaReceita": "BALAROTI",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477878053,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "16/09/2025",
+        "valorTransacao": "24,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 4019837,
+            "cpfFormatado": "",
+            "cnpjFormatado": "03.133.011/0001-38",
+            "numeroInscricaoSocial": "",
+            "nome": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "razaoSocialReceita": "HIDROVOLTS - MATERIAL ELETRICO HIDRAULICO E FERRAGENS LTDA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477878117,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "16/09/2025",
+        "valorTransacao": "97,60",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 7320064,
+            "cpfFormatado": "",
+            "cnpjFormatado": "43.283.811/0050-38",
+            "numeroInscricaoSocial": "",
+            "nome": "KALUNGA SA",
+            "razaoSocialReceita": "KALUNGA SA",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.801.049-**",
+            "nis": "",
+            "nome": "RICARDO ALEXANDRE HONORIO ALVES"
+        }
+    },
+    {
+        "id": 477878181,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "12/09/2025",
+        "valorTransacao": "500,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608438242,
+            "cpfFormatado": "",
+            "cnpjFormatado": "20.191.753/0001-39",
+            "numeroInscricaoSocial": "",
+            "nome": "WILLIAN ROBERT SCHMIDT 05985637921",
+            "razaoSocialReceita": "WILLIAN ROBERT SCHMIDT 05985637921",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.268.009-**",
+            "nis": "",
+            "nome": "VANESSA BECKER MACIEL"
+        }
+    },
+    {
+        "id": 477878245,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "17/09/2025",
+        "valorTransacao": "50,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 17542276,
+            "cpfFormatado": "",
+            "cnpjFormatado": "01.781.936/0001-60",
+            "numeroInscricaoSocial": "",
+            "nome": "GOLINHAKI & CIA LTDA",
+            "razaoSocialReceita": "GOLINHAKI & CIA LTDA",
+            "nomeFantasiaReceita": "EXTINTORES SAO CRISTOVAO",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.268.009-**",
+            "nis": "",
+            "nome": "VANESSA BECKER MACIEL"
+        }
+    },
+    {
+        "id": 477878309,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "05/09/2025",
+        "valorTransacao": "600,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608409741,
+            "cpfFormatado": "",
+            "cnpjFormatado": "16.919.138/0001-29",
+            "numeroInscricaoSocial": "",
+            "nome": "SERGIO TOMAZ DO NASCIMENTO 05630168924",
+            "razaoSocialReceita": "SERGIO TOMAZ DO NASCIMENTO 05630168924",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477878373,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "09/09/2025",
+        "valorTransacao": "180,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 606497635,
+            "cpfFormatado": "",
+            "cnpjFormatado": "31.523.399/0001-19",
+            "numeroInscricaoSocial": "",
+            "nome": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "razaoSocialReceita": "JK SERVICOS DE TELECOMUNICACOES LTDA",
+            "nomeFantasiaReceita": "JK TELECOM",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    },
+    {
+        "id": 477878437,
+        "mesExtrato": "10/2025",
+        "dataTransacao": "26/09/2025",
+        "valorTransacao": "280,00",
+        "tipoCartao": {
+            "id": 1,
+            "codigo": "1",
+            "descricao": "Cartão de Pagamento do Governo Federal - CPGF"
+        },
+        "estabelecimento": {
+            "id": 608396986,
+            "cpfFormatado": "",
+            "cnpjFormatado": "23.990.857/0001-00",
+            "numeroInscricaoSocial": "",
+            "nome": "MARLENE DE OLIVEIRA 97436267787",
+            "razaoSocialReceita": "MARLENE DE OLIVEIRA 97436267787",
+            "nomeFantasiaReceita": "",
+            "tipo": "Entidades Empresariais Privadas"
+        },
+        "unidadeGestora": {
+            "codigo": "380044",
+            "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+            "descricaoPoder": "EXECUTIVO",
+            "orgaoVinculado": {
+                "codigoSIAFI": "38000",
+                "cnpj": "37115367000160",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto"
+            },
+            "orgaoMaximo": {
+                "codigo": "38000",
+                "sigla": "MIN. DO TRABALHO",
+                "nome": "Ministério do Trabalho e Emprego"
+            }
+        },
+        "portador": {
+            "cpfFormatado": "***.326.299-**",
+            "nis": "",
+            "nome": "ROGERIO PEREZ GARCIA JUNIOR"
+        }
+    }
+]
+
+
+
+{
+    "codigo": "1",
+    "descricao": "Cartão de Pagamento do Governo Federal - CPGF",
+    "id": 1
+}
+
+{
+    "cnpjFormatado": "23.773.333/0001-59",
+    "cpfFormatado": "",
+    "id": 607852763,
+    "nome": "DANIEL BRASIL VIDROS LTDA.",
+    "nomeFantasiaReceita": "VIDRACARIA BRASIL VIDROS",
+    "numeroInscricaoSocial": "",
+    "razaoSocialReceita": "DANIEL BRASIL VIDROS LTDA.",
+    "tipo": "Entidades Empresariais Privadas"
+}
+
+
+{
+    "codigo": "380044",
+    "descricaoPoder": "EXECUTIVO",
+    "nome": "SUPERINT REG DO TRAB E EMPREGO/PR",
+    "orgaoMaximo": {
+        "codigo": "38000",
+        "nome": "Ministério do Trabalho e Emprego",
+        "sigla": "MIN. DO TRABALHO"
+    },
+    "orgaoVinculado": {
+        "cnpj": "37115367000160",
+        "codigoSIAFI": "38000",
+        "nome": "Ministério do Trabalho e Emprego - Unidades com vínculo direto",
+        "sigla": "MIN. DO TRABALHO"
+    }
+}
+
+{"cpfFormatado":"***.069.969-**","nis":"","nome":"MARISTELA GRASSO"}

@@ -23,7 +23,7 @@ Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Del
 ## 🏗️ Arquitetura da Solução
 
 <!-- INSERIR IMAGEM DA ARQUITETURA AQUI -->
-![Arquitetura do Pipeline](images/arquitetura_pipeline.png)
+![Arquitetura do Pipeline]("images\roadmap.png")
 
 ### Componentes principais:
 - **Fonte de Dados**: API REST pública

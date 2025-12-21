@@ -23,12 +23,14 @@ Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Del
 ## 🏗️ Arquitetura da Solução
 
 
+<!-- -- imagem do roadmap técnico -- -->
+
 <p align="center">
   <img src="images/roadmap.png" width="900"/>
 </p>
 
 ### Componentes principais:
-- **Fonte de Dados**: API REST pública
+- **Fonte de Dados**: API REST pública: https://api.portaldatransparencia.gov.br/swagger-ui/index.html#/
 - **Processamento**: Databricks (Apache Spark)
 - **Armazenamento**: Delta Lake
 - **Camadas de Dados**:

@@ -6,6 +6,7 @@ from delta.tables import DeltaTable
 import requests
 import json
 from datetime import datetime, timedelta
+import sys
 
 spark = (
     SparkSession.builder
@@ -18,7 +19,8 @@ spark = (
 bronze_path_full_load = "s3://aws-us-east-1-112557133617-gov-transparencia-pipe/bronze/cartoes"
 bronze_path_incremental = "s3://aws-us-east-1-112557133617-gov-transparencia-pipe/bronze/cartoes_incremental"
 api_url = "https://api.portaldatransparencia.gov.br/api-de-dados/cartoes"
-key_api = "e941af3608f165f7b41587c237ec0924"
+
+secret_data_api = dbutils.secrets.get(scope = "secret_scope", key = "secret_data_api")
 
 schema = StructType([
     StructField("id", StringType(), True),
@@ -69,7 +71,7 @@ try:
     tabela_incremental_existe = True
     
 except:
-    print("⚠️  Tabela incremental não existe ainda")
+    print("⚠️ Tabela incremental não existe ainda")
     ultima_data = ultima_data_full
     tabela_incremental_existe = False
 
@@ -79,7 +81,7 @@ print(f"📅 Extrair de: {data_extracao_inicio} até hoje")
 print(f"💡 Overlap de 2 dias para garantir que não perca nenhum dado\n")
 
 today = datetime.today().date()
-headers = {"accept": "*/*", "chave-api-dados": key_api}
+headers = {"accept": "*/*", "chave-api-dados": secret_data_api}
 
 todos_dados = []
 pagina = 1

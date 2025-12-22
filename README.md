@@ -236,5 +236,5 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 ## Catalogo
 
 <p align="left">
-  <img src="images/catalogo_pipeline.png" width="200"/>
+  <img src="images/catalogo_pipeline.png" width="400"/>
 </p>

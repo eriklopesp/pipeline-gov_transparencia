@@ -15,7 +15,7 @@ O objetivo deste projeto foi construir uma **arquitetura de dados em Cloud robus
 - Processar dados em camadas (Bronze, Silver, Gold)
 - Suportar cargas **incrementais**
 - Disponibilizar dados prontos para análise e visualização de maneira automática e escalável
-- Suportar big datas com processamento distribuído no método batch
+- Suportar big datas através de processamento distribuído com partições otimizadas
 
 Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Delta Lake** como camada de persistência.
 
@@ -167,6 +167,8 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 - S3 (AWS)
 - Git & GitHub
 
+---
+
 ## Estrutura do Lakehouse por camadas
 
 🟤 **Bronze**
@@ -178,31 +180,34 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 
 #### Armazenamento em Delta Lake sobre o S3
 
-Estrutura geral
+*Estrutura geral*
 
 <p align="center">
   <img src="images/delta_lake_s3_estrutura.png" width="900"/>
 </p>
 
 
-Full Load
+*Full Load*
 
 <p align="center">
   <img src="images/estrutura_full_load_s3.png" width="900"/>
 </p>
 
-Incremental
+*Incremental*
 
 <p align="center">
-  <img src="images/estrutura_incremental.png" width="900"/>
+  <img src="images/estrutura_incremental_s3.png" width="900"/>
 </p>
 
+---
 
 ⚪ **Silver**
 
 <p align="center">
   <img src="images/previa_silver.png" width="900"/>
 </p>
+
+---
 
 🟡 **Gold Portador**
 
@@ -214,6 +219,8 @@ Incremental
   <img src="images/previa_gold_series_temporais.png" width="900"/>
 </p>
 
+🟡 **Gold Estabelecimentos**
+
 <p align="center">
   <img src="images/previa_gold_comportamental_estabelecimento.png" width="900"/>
 </p>
@@ -222,8 +229,10 @@ Incremental
   <img src="images/previa_gold_series_temporais_estabelecimento.png" width="900"/>
 </p>
 
+---
+
 ## Catalogo
 
 <p align="center">
-  <img src="images/catalogo_pipeline.png" width="900"/>
+  <img src="images/catalogo_pipeline.png" width="500"/>
 </p>

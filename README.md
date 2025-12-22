@@ -2,19 +2,20 @@
 
 > Projeto de engenharia de dados focado em **arquitetura, ingestão incremental, idempotência e camada analítica**, desenvolvido no Databricks utilizando boas práticas de pipelines modernos em cloud.
 
-Este repositório documenta **a construção da arquitetura e do pipeline de dados**, desde a ingestão full load até a disponibilização para consumo analítico via dashboards.
+Este repositório documenta **a construção da arquitetura e do pipeline de dados**, desde a ingestão full load até a configuração da ingestão incremental, garantindo idempotencia e otimização de processamento, além da disponibilização para consumo analítico via dashboards.
 
 ---
 
 ## 🧭 Visão Geral do Projeto
 
-O objetivo deste projeto foi construir um **pipeline de dados robusto e reprocessável**, capaz de:
+O objetivo deste projeto foi construir uma **arquitetura de dados em Cloud robusta e moderna**, capaz de:
 
-- Ingerir dados brutos de uma API pública
+- Ingerir dados brutos de uma API pública no Bucket S3 em Delta.
 - Garantir **idempotência** e **consistência**
 - Processar dados em camadas (Bronze, Silver, Gold)
 - Suportar cargas **incrementais**
 - Disponibilizar dados prontos para análise e visualização de maneira automática e escalável
+- Suportar big datas com processamento distribuído no método batch
 
 Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Delta Lake** como camada de persistência.
 
@@ -38,6 +39,12 @@ Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Del
 - **Consumo**:
   - Databricks SQL
   - Dashboards analíticos
+
+### Pipeline Databricks:
+
+<p align="center">
+  <img src="images/pipeline_databricks.png" width="900"/>
+</p>
 
 ---
 
@@ -159,3 +166,64 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 - Python
 - S3 (AWS)
 - Git & GitHub
+
+## Estrutura do Lakehouse por camadas
+
+🟤 **Bronze**
+
+#### Payload Original
+<p align="center">
+  <img src="images/previa_bronze.png" width="900"/>
+</p>
+
+#### Armazenamento em Delta Lake sobre o S3
+
+Estrutura geral
+
+<p align="center">
+  <img src="images/delta_lake_s3_estrutura.png" width="900"/>
+</p>
+
+
+Full Load
+
+<p align="center">
+  <img src="images/estrutura_full_load_s3.png" width="900"/>
+</p>
+
+Incremental
+
+<p align="center">
+  <img src="images/estrutura_incremental.png" width="900"/>
+</p>
+
+
+⚪ **Silver**
+
+<p align="center">
+  <img src="images/previa_silver.png" width="900"/>
+</p>
+
+🟡 **Gold Portador**
+
+<p align="center">
+  <img src="images/previa_gold_comportamental.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="images/previa_gold_series_temporais.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="images/previa_gold_comportamental_estabelecimento.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="images/previa_gold_series_temporais_estabelecimento.png" width="900"/>
+</p>
+
+## Catalogo
+
+<p align="center">
+  <img src="images/catalogo_pipeline.png" width="900"/>
+</p>

@@ -60,6 +60,7 @@ O pipeline foi estruturado seguindo o padrão **Medallion Architecture**:
 - Criação de **hash de identificação** para controle de duplicidade
 
 ### 🥇 Gold – Camada Analítica
+- A camada Gold é mantida sincronizada com a Silver por meio de operações MERGE, garantindo atualização automática das métricas agregadas sempre que novos dados são incorporados à camada intermediária.
 - Dados agregados e prontos para consumo
 - Otimização para dashboards
 - Métricas e indicadores de negócio
@@ -130,12 +131,12 @@ Essa abordagem garante:
 
 ## 📊 Camada Analítica & Dashboards
 
-# Databricks
+### Databricks
 <p align="center">
   <img src="images/dataviz_databricks.png" width="900"/>
 </p>
 
-# Power BI
+### Power BI
 <p align="center">
   <img src="images/dataviz_powerbi.png" width="900"/>
 </p>

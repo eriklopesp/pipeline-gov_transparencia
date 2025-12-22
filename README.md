@@ -219,6 +219,8 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
   <img src="images/previa_gold_series_temporais.png" width="900"/>
 </p>
 
+---
+
 🟡 **Gold Estabelecimentos**
 
 <p align="center">
@@ -226,13 +228,13 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 </p>
 
 <p align="center">
-  <img src="images/previa_gold_series_temporais_estabelecimento.png" width="900"/>
+  <img src="images/previa_gold_series_temporais_estabelecimentos.png" width="900"/>
 </p>
 
 ---
 
 ## Catalogo
 
-<p align="center">
-  <img src="images/catalogo_pipeline.png" width="500"/>
+<p align="left">
+  <img src="images/catalogo_pipeline.png" width="200"/>
 </p>

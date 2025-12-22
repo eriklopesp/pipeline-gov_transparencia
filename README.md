@@ -42,6 +42,8 @@ Todo o pipeline foi desenvolvido e executado no **Databricks**, utilizando **Del
 
 ### Pipeline Databricks:
 
+- Rodando todo dia às 08h da manhã extraindo os dados da API de maneira incremental, enviando ao bucket s3 com particionamento de data, inserindo na Silver, para posteriores tratativas das tabelas golds.
+
 <p align="center">
   <img src="images/pipeline_databricks.png" width="900"/>
 </p>

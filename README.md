@@ -173,7 +173,7 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 
 🟤 **Bronze**
 
-#### Payload Original
+#### *Payload Original*
 <p align="center">
   <img src="images/previa_bronze.png" width="900"/>
 </p>

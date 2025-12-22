@@ -235,7 +235,7 @@ As queries utilizadas para os dashboards são versionadas e documentadas.
 
 ---
 
-## Catalogo
+## Catálogo
 
 <p align="left">
   <img src="images/catalogo_pipeline.png" width="400"/>

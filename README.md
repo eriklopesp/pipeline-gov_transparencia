@@ -150,6 +150,12 @@ Essa abordagem garante:
   <img src="images/dataviz_powerbi.png" width="900"/>
 </p>
 
+  - Forecast
+
+<p align="center">
+  <img src="images/forecast_mensal.png" width="900"/>
+</p>
+
 Os dados da camada Gold são consumidos via:
 - Databricks SQL
 - Power BI

@@ -61,7 +61,7 @@ try:
     
     print(f"✅ Última dataTransacao no incremental: {ultima_data_inc}")
     
-    if ultima_data_inc and ultima_data_inc > ultima_data_full:
+    if ultima_data_inc > ultima_data_full:
         ultima_data = ultima_data_inc
         print(f"🎯 Usando data do incremental (mais recente)")
     else:

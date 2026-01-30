@@ -19,8 +19,9 @@ todos_dados = []
 
 while True:
     params = {"pagina": pagina,
-              "codigoOrgao": "38000",
-                "dataTransacaoInicio": "01/01/2020",
+              "codigoOrgao": "34000",
+                "dataTransacaoInicio": "01/09/2025",
+                "dataTransacaoFim": "10/09/2025"
             }
 
     response = requests.get(endpoint, headers=headers, params=params)
